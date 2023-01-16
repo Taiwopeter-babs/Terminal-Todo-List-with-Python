@@ -20,4 +20,4 @@ The back button is disabled on getting to the first image, and the window size i
 
 
 
-This mini photo album was named _Jhene to Klaus_ because of the first and last images used.
+This mini photo album was named _Jhene to Klaus_ because of the first image (Jhene Aiko) and last image (Joseph Morgan) - Klaus is a character in "The Originals" played by Joseph Morgan.
