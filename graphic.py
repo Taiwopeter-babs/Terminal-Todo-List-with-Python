@@ -131,4 +131,5 @@ frame.grid(padx=10, pady=10, ipadx=50, ipady=50)
 quit_button.grid(row=3, column=1)"""
 
 
-root.mainloop()
+if __name__ == "__main__":
+    root.mainloop()
