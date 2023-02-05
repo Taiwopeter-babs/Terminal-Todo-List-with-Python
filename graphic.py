@@ -11,22 +11,22 @@ frame = LabelFrame(root, text="Jhene to KLaus", padx=10, pady=10)
 
 # images definition
 my_img1 = ImageTk.PhotoImage(
-    Image.open("images/image1.jpg").resize((400, 400), Image.ANTIALIAS)
+    Image.open("images/image1.jpg").resize((400, 400), Image.Resampling.LANCZOS)
 )
 my_img2 = ImageTk.PhotoImage(
-    Image.open("images/image2.jpg").resize((400, 400), Image.ANTIALIAS)
+    Image.open("images/image2.jpg").resize((400, 400), Image.Resampling.LANCZOS)
 )
 my_img3 = ImageTk.PhotoImage(
-    Image.open("images/image3.jpg").resize((400, 400), Image.ANTIALIAS)
+    Image.open("images/image3.jpg").resize((400, 400), Image.Resampling.LANCZOS)
 )
 my_img4 = ImageTk.PhotoImage(
-    Image.open("images/image4.jpg").resize((400, 400), Image.ANTIALIAS)
+    Image.open("images/image4.jpg").resize((400, 400), Image.Resampling.LANCZOS)
 )
 my_img5 = ImageTk.PhotoImage(
-    Image.open("images/image5.jpg").resize((400, 400), Image.ANTIALIAS)
+    Image.open("images/image5.jpg").resize((400, 400), Image.Resampling.LANCZOS)
 )
 my_img6 = ImageTk.PhotoImage(
-    Image.open("images/image6.jpg").resize((400, 400), Image.ANTIALIAS)
+    Image.open("images/image6.jpg").resize((400, 400), Image.Resampling.LANCZOS)
 )
 
 image_list = [my_img1, my_img2, my_img3, my_img4, my_img5, my_img6]
